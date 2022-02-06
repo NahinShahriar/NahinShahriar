@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NahinShahriar
 - 👀 I’m interested in Development both front End and Backend
-- 🌱 I’m currently learning laravel
+- 🌱 I’m currently learning laravel and working on several projects
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
