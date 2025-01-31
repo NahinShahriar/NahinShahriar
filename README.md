@@ -1,4 +1,5 @@
 👋 Hi, I’m Nadid
+
 🚀 About Me
 
 I’m a Software Developer passionate about both frontend and backend development. I enjoy building scalable applications and continuously improving my skills.
