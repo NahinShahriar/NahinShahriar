@@ -1,7 +1,7 @@
 👋 Hi, I’m Nadid
 
 🚀 About Me
-I’m a Full-Stack Developer passionate about both frontend and backend development. I enjoy building scalable applications and continuously improving my skills.
+I’m a Software Developer passionate about both frontend and backend development. I enjoy building scalable applications and continuously improving my skills.
 
 🎓 Education:
 I have completed my graduation from American International University-Bangladesh (AIUB), Department of Computer Science & Engineering (CSE).
