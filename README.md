@@ -6,8 +6,11 @@ I love building scalable applications and continuously improving my skills.
 
 💡 What I'm Working On
 🛠️ Currently learning Laravel and exploring advanced backend development
+
 💻 Working on multiple projects, including web applications and APIs
+
 🔍 Exploring React to enhance my frontend skills
+
 🌱 Skills & Tech Stack
 Frontend: HTML, CSS, JavaScript, React
 Backend: PHP, Laravel, MySQL
