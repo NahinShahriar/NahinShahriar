@@ -7,17 +7,20 @@ I’m a Full-Stack Developer passionate about both frontend and backend developm
 I have completed my graduation from American International University-Bangladesh (AIUB), Department of Computer Science & Engineering (CSE).
 
 💡 What I'm Working On
-🛠️ Currently learning Laravel and working on several projects
-💻 Exploring React to enhance my frontend skills
-🔍 Passionate about backend development, APIs, and database management
-🌱 Skills & Tech Stack
-Frontend: HTML, CSS, JavaScript, React
-Backend: PHP, Laravel, MySQL
-Other Tools: Git, Docker, REST APIs
-💬 Let's Connect
-💼 Open to collaborations and exciting new projects
-📫 Reach me via LinkedIn or email at your-email@example.com
 
+🛠️ Currently learning Laravel and working on several projects
+
+💻 Exploring React to enhance my frontend skills
+
+🔍 Passionate about backend development, APIs, and database management
+
+🌱 Skills & Tech Stack
+
+Frontend: HTML, CSS, JavaScript, React
+
+Backend: PHP, Laravel, MySQL
+
+Other Tools: Git, Docker, REST APIs
 
 💬 Let's Connect
 💼 Open to collaborations and exciting projects
