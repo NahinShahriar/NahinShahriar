@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @NahinShahriar
-- 👀 I’m interested in Development both front End and Backend
-- 🌱 I’m currently learning laravel and working on several projects
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Nahin Shahriar
+🚀 About Me
+I’m a Full-Stack Developer passionate about both frontend and backend development. I love building scalable applications and continuously improving my skills.
 
-<!---
-NahinShahriar/NahinShahriar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 What I'm Working On
+🛠️ Currently learning Laravel and exploring advanced backend development
+💻 Working on multiple projects, including web applications and APIs
+🔍 Exploring React to enhance my frontend skills
+🌱 Skills & Tech Stack
+Frontend: HTML, CSS, JavaScript, React
+Backend: PHP, Laravel, MySQL
+Other Tools: Git, Docker, REST APIs
+💬 Let's Connect
+💼 Open to collaborations and exciting projects
+📫 Reach me via www.linkedin.com/in/nadid1996 or email at shahriar.nadid@gmail.com
