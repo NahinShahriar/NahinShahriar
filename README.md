@@ -13,8 +13,12 @@ I love building scalable applications and continuously improving my skills.
 
 🌱 Skills & Tech Stack
 Frontend: HTML, CSS, JavaScript, React
+
 Backend: PHP, Laravel, MySQL
+
 Other Tools: Git, Docker, REST APIs
+
 💬 Let's Connect
 💼 Open to collaborations and exciting projects
+
 📫 Reach me via www.linkedin.com/in/nadid1996 or email at shahriar.nadid@gmail.com
