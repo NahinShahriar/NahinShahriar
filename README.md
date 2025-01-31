@@ -1,6 +1,8 @@
 👋 Hi, I’m Nahin Shahriar
+
 🚀 About Me
-I’m a Full-Stack Developer passionate about both frontend and backend development. I love building scalable applications and continuously improving my skills.
+I’m a Full-Stack Developer passionate about both frontend and backend development.
+I love building scalable applications and continuously improving my skills.
 
 💡 What I'm Working On
 🛠️ Currently learning Laravel and exploring advanced backend development
