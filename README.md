@@ -4,7 +4,7 @@
 I’m a Software Developer passionate about both frontend and backend development. I enjoy building scalable applications and continuously improving my skills.
 
 🎓 Education:
-I have completed my graduation from American International University-Bangladesh (AIUB), Department of Computer Science & Engineering (CSE).
+I have completed my graduation from American International University-Bangladesh (AIUB), Department of Computer Science & Engineering (CSE) and Postgraduation from Jahangirnagar University.
 
 💡 What I'm Working On
 
@@ -20,7 +20,7 @@ Frontend: HTML, CSS, JavaScript, React
 
 Backend: PHP, Laravel, MySQL
 
-Other Tools: Git, Docker, REST APIs
+Other Tools: Git, Docker, REST APIs,postman
 
 💬 Let's Connect
 💼 Open to collaborations and exciting projects
