@@ -9,11 +9,10 @@ I have completed my graduation from American International University-Bangladesh
 
 💡 What I'm Working On
 
-🛠️ Currently learning Laravel and working on several projects
+🛠️ Currently  working on  Laravel,React,Rest APi and several projects
 
-💻 Exploring React to enhance my frontend skills
 
-🔍 Passionate about backend development, APIs, and database management
+🔍 Passionate about backend development, APIs, and database management,code optimization
 
 🌱 Skills & Tech Stack
 
